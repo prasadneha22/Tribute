@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;;
+}
+.main{
+    width: 900px;
+    height: 900px;
+    background-color: rgb(198, 213, 250);
+    border: 8px solid rgb(13, 13, 41);
+    margin: auto;
+    
+}
+
+.heading{
+    display: flex;
+    justify-content: space-between;
+    justify-items: end;
+    
+}
+.imgContainer{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.title{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 150px;
+    padding-right: 30px;
+    
+}
+.title h2{
+    font-size: 70px;
+}
+.title{
+    font-size: 25px;
+    text-align: end;
+}
+img{
+    width: 150px;
+    height: 220px;
+    border-radius: 50%;
+}
+.content{
+    padding: 50px;
+}
+.content h1{
+    padding-bottom: 15px;
+}
+.content p{
+    letter-spacing: 1.3px;
+}
+.biography{
+    padding-left: 50px;
+}
+.biography h1{
+    padding-bottom: 20px;
+}
+.biography ul {
+    padding-left: 25px;
+}
+.ftr{
+    height: 150px;
+}
+.ftr footer{
+    padding: 50px;
+    text-align: end;
+}
+
+.ftr footer a{
+    text-decoration: none;
+
+}
+
